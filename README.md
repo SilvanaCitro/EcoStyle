@@ -33,6 +33,6 @@ Per consultare le regole generali di formattazione, fai riferimento alla [Docume
 
 ## Logo e Contatti
 
-![Logo del Sito]([https://via.placeholder.com/150x150.png?text=Logo+Sito](https://www.thegreensideofpink.com/style/moda/2023/aziende-innovative-di-moda-sostenibile/))
+[![Logo del Sito]([https://via.placeholder.com/150x150.png?text=Logo+Sito)](https://www.thegreensideofpink.com/style/moda/2023/aziende-innovative-di-moda-sostenibile/)
 
 Per ulteriori informazioni o per segnalare anomalie durante la fase di test, puoi scrivere all'indirizzo email: [supporto@progettoecommerce.it](mailto:supporto@progettoecommerce.it).
